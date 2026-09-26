@@ -1,0 +1,1 @@
+{"name":"raceio-approved-updates","private":true,"version":"1.0.0","scripts":{"test":"node --test scripts/*.test.cjs"},"dependencies":{"js-yaml":"4.3.2"}}
